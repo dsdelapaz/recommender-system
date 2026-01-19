@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **collaborative filtering–based recommender system** for books through user ratings. The objective is to compare **neighborhood-based methods** and **latent factor models** in terms of both **rating prediction accuracy** and **Top-N recommendation quality**.
+A **collaborative filtering–based recommender system** for books through user ratings. The objective is to compare different methods, comparing their **rating prediction accuracy** and **Top-N recommendation quality**.
 
 Steps: data cleaning, exploratory analysis, feature engineering, model training, cross-validation, evaluation.
 
